@@ -14,6 +14,11 @@ Visit our [website] for audio samples using our published [Tacotron 2] and
 ![Alignment, Predicted Mel Spectrogram, Target Mel Spectrogram](tensorboard.png)
 
 
+# Online Demo
+An online interactive demo is available at [Google Colab](https://colab.research.google.com/drive/1Kz5ktn355ekeuMpDSXHjpx0pM_5dDwsn). Check it out!
+
+# Offline setup
+
 ## Pre-requisites
 1. NVIDIA GPU + CUDA cuDNN
 
